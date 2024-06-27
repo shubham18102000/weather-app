@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shubham18102000/weather-app/static/css/main.0c08e97f.css",
-    "main.js": "/shubham18102000/weather-app/static/js/main.b9d7139f.js",
-    "static/js/453.4d1e5ba5.chunk.js": "/shubham18102000/weather-app/static/js/453.4d1e5ba5.chunk.js",
-    "static/media/1.mp4": "/shubham18102000/weather-app/static/media/1.4dd8bc42bbc3cb0a6908.mp4",
-    "index.html": "/shubham18102000/weather-app/index.html",
-    "main.0c08e97f.css.map": "/shubham18102000/weather-app/static/css/main.0c08e97f.css.map",
-    "main.b9d7139f.js.map": "/shubham18102000/weather-app/static/js/main.b9d7139f.js.map",
-    "453.4d1e5ba5.chunk.js.map": "/shubham18102000/weather-app/static/js/453.4d1e5ba5.chunk.js.map"
+    "main.css": "/weather-app/static/css/main.0c08e97f.css",
+    "main.js": "/weather-app/static/js/main.f4bcabdc.js",
+    "static/js/453.4d1e5ba5.chunk.js": "/weather-app/static/js/453.4d1e5ba5.chunk.js",
+    "static/media/1.mp4": "/weather-app/static/media/1.4dd8bc42bbc3cb0a6908.mp4",
+    "index.html": "/weather-app/index.html",
+    "main.0c08e97f.css.map": "/weather-app/static/css/main.0c08e97f.css.map",
+    "main.f4bcabdc.js.map": "/weather-app/static/js/main.f4bcabdc.js.map",
+    "453.4d1e5ba5.chunk.js.map": "/weather-app/static/js/453.4d1e5ba5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c08e97f.css",
-    "static/js/main.b9d7139f.js"
+    "static/js/main.f4bcabdc.js"
   ]
 }
